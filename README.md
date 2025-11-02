@@ -19,7 +19,7 @@ Currently in my second year of an engineering program in France, pursuing an app
  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
  ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-- **Functional Programming** (Scala, TypeScript, etc.)
+
 
 ### 🛠️ **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
