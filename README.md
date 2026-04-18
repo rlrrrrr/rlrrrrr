@@ -18,7 +18,9 @@ Currently in my second year of an engineering program in France, pursuing an app
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
  ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
+ ![Go](https://img.shields.io/badge/-Go-34ebe5?logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+
 
 
 ### 🛠️ **Frameworks & Libraries**
